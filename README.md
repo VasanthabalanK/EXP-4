@@ -9,10 +9,8 @@ THEORY: Rectifier changes ac to dc and it is an essential part of power supply. 
 
 Half Wave Rectifier
 
-
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
-
 
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
@@ -34,19 +32,64 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/1.jpeg)
 
-Half wave rectifier with filter:
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/2.jpeg)
 
-Bridge rectifier with filter:
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/3.jpeg)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/4.jpeg)
 
-WAVEFORM:
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/5.jpeg)
 
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/6.jpeg)
+
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/7.jpeg)
+
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/8.jpeg)
+
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/9.jpeg)
+
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/10.jpeg)
+
+## OUTPUT 
+
+### Half wave rectifier with filter:
+
+<img width="1325" height="823" alt="Screenshot 2025-11-04 235128" src="https://github.com/user-attachments/assets/52bf4dc3-7d91-47f6-a4ad-cebd215f5bba" />
+
+### Half wave rectifier without filter:
+
+<img width="1920" height="1200" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/981cb436-a784-4c93-b5ad-1d23b96e3ee7" />
+
+### Full wave rectifier without filter
+
+<img width="1481" height="927" alt="Screenshot 2025-11-04 234908" src="https://github.com/user-attachments/assets/8e7d8076-6d37-40f9-bdb1-fad4c35b0c48" />
+
+### Full wave rectifier with filter
+
+<img width="1920" height="1200" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/cdd95d58-6a63-46f3-b927-51523a88345e" />
+
+
+## WAVEFORM:
+
+### Half wave rectifier with filter:
+
+<img width="1920" height="1200" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/28693919-21b6-4c43-b31d-256f44826965" />
+
+### Half wave rectifier without filter:
+
+<img width="1920" height="1200" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/3f500d30-b807-4af3-858c-96c5bc24b87c" />
+
+
+### Full wave rectifier with filter
+
+<img width="1920" height="1200" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/432af471-bb0d-4e4e-b6be-321a1e5d370a" />
+
+
+### Full wave rectifier without filter:
+
+<img width="1920" height="1200" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/f756fe76-4949-453c-92b0-20e0036776a5" />
 
 RESULT:
 
